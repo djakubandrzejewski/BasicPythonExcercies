@@ -1,0 +1,1 @@
+print(round(wejscie, 2))
